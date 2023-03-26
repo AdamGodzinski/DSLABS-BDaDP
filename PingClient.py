@@ -15,7 +15,7 @@ class PingClient(Node.Node):
         # set timer
         pass
 
-        
+
 
     def hasResult(self):
         pass
